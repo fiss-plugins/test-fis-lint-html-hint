@@ -24,7 +24,7 @@ npm install // 本地安装 fis-lint-html-hint
 
 npm test // 该命令将使用 fis3 命令
 
-// 如果你安装了 fiss，请使用下面命令进行测试
+// 如果你安装了 fiss，可以使用下面命令进行测试
 npm run test-on-fiss
 
 ```
@@ -50,7 +50,7 @@ npm install
 
 npm test
 
-// 如果你安装了 fiss，请使用下面命令进行测试
+// 如果你安装了 fiss，可以使用下面命令进行测试
 npm run test-on-fiss
 ```
 
