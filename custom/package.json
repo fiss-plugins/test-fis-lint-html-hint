@@ -4,7 +4,8 @@
   "description": "a test demo for fis-lint-html-hint",
   "main": "index.js",
   "scripts": {
-    "test": "fiss release -d output -l"
+    "test-on-fiss": "fiss release -d output -l",
+    "test": "fis3 release -d output -l"
   },
   "repository": {
     "type": "git",
